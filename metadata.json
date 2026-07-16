@@ -1,0 +1,6 @@
+{
+  "name": "國考申論擬答分析器",
+  "description": "分析國考 PDF 講義或試題，自動生成標準擬答、核心爭點、Anki 記憶卡片及背誦口訣。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
